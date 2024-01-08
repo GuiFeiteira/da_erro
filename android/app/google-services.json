@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "878884187451",
+    "project_id": "appm-c4b4f",
+    "storage_bucket": "appm-c4b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878884187451:android:918fda4c7668bd04405b1e",
+        "android_client_info": {
+          "package_name": "com.example.da_erro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIoKrip-GHz3CN5tqLD0y6ctq50GLSnk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
